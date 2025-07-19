@@ -71,7 +71,7 @@ All assets, content, and code are owned by the client and were developed under a
 > I design and develop impactful digital experiences for startups, businesses, and personal brands.
 
 🌐 Portfolio: [www.techgoatindia.com](https://www.techgoatindia.com)  
-📩 Email: `contact@techgoatindia.com`  
+📩 Email: `founder@techgoatindia.com`  
 
 
 ---
